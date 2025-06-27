@@ -1,0 +1,9 @@
+
+{
+  "name": "collab-doc-editor-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "y-websocket": "^1.5.10"
+  }
+}
