@@ -25,4 +25,4 @@ npm start
 - Host your own WebSocket server
 
 ---
-Built with ❤️ by ChatGPT.
+Built with ❤️
