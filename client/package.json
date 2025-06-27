@@ -1,0 +1,22 @@
+
+{
+  "name": "collab-doc-editor-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@tiptap/react": "^2.0.0-beta.216",
+    "@tiptap/starter-kit": "^2.0.0-beta.216",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "y-prosemirror": "^1.0.6",
+    "y-websocket": "^1.5.10",
+    "yjs": "^13.6.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
